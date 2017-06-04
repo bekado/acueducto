@@ -1,0 +1,10 @@
+//prepara todos los archivos para el commit
+--git add .
+//prepara un archivo especifico para el comit
+--git add nombrearchivo
+//commit de los archivos preparados
+--git commit -a -m "Mensaje de comit"
+//Sincronizacion de los commit a la nube
+--git push
+//descargar de los cambios en la nube
+--git pull
